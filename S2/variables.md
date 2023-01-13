@@ -15,7 +15,7 @@
    a = 10
    b = 20
    c = 5
-``
+```
 
 *Calculos:*
 ```
@@ -33,3 +33,17 @@
     b = 4
     c = 30
 ```
+
+## Estilos de nombramiento:
+
+* Camell case (lower camell case):
+    
+    numUno,varUno,edadMayor,primerEdadFinal
+
+* Snake case:
+
+    num_uno,var_uno,edad_mayor,primer_edad_final
+
+* Upper camell case (pascal case):
+
+    NumUno,VarUno,EdadMayor
